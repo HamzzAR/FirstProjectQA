@@ -2,7 +2,7 @@
 public class DecimalToBinary {
 	
 	public DecimalToBinary() {
-		decimalToBinary(5);
+		decimalToBinary(4);
 	}
 	
 	
